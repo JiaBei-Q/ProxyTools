@@ -6,14 +6,14 @@
 #!openUrl = http://boxjs.com
 #!author = chavyleung
 #!homepage = https://chavyleung.gitbook.io/boxjs/
-#!icon = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/Loon_BoxJS/icon/Loon_BoxJS.png
-#!date = 2024-04-22 04:13:55
+#!icon = https://raw.githubusercontent.com/JiaBei-Q/Rules/main/plugin/Loon_BoxJS/icon/Loon_BoxJS.png
+#!date = 2024-04-23 18:10:41
 
 [Rule]
 DOMAIN-SUFFIX,jsdelivr.net,PROXY
 
 [Script]
-http-request ^https?:\/\/(.+\.)?boxjs\.(com|net) script-path=https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/Loon_BoxJS/script/chavy.boxjs.js, requires-body=true, timeout=120, tag=BoxJs
+http-request ^https?:\/\/(.+\.)?boxjs\.(com|net) script-path=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/plugin/Loon_BoxJS/script/chavy.boxjs.js, requires-body=true, timeout=120, tag=BoxJs
 
 [Mitm]
 hostname = boxjs.com, boxjs.net, *.boxjs.com, *.boxjs.net

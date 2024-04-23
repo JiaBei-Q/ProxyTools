@@ -5,11 +5,11 @@
 #!desc = AdGuard 美区 解锁会员
 #!author = yqc007
 #!homepage = https://yfamily.ml
-#!icon = https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/Adguard/icon/Adguard.png
-#!date = 2024-04-08 02:03:08
+#!icon = https://raw.githubusercontent.com/JiaBei-Q/Rules/main/plugin/Adguard/icon/Adguard.png
+#!date = 2024-04-23 18:10:41
 
 [Script]
-http-response ^https?:\/\/mobile-api\.adguard\.org\/api\/.+\/ios_validate_receipt requires-body=1,script-path=https://raw.githubusercontent.com/mphin/ProxyTools/main/plugin/Adguard/script/AdGuardProCrack.js
+http-response ^https?:\/\/mobile-api\.adguard\.org\/api\/.+\/ios_validate_receipt requires-body=1,script-path=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/plugin/Adguard/script/AdGuardProCrack.js
 
 [Mitm]
 hostname = mobile-api.adguard.org
