@@ -5,6 +5,7 @@
 #### 常用插件:
 | 插件名称 | 更新时间 | 安装地址 |
 | - | - | - |
+| [BoxJs](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_BoxJS.plugin) | 2024/04/25 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_BoxJS.plugin) |
 | [YouTube去广告](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_YouTube_ads.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_YouTube_ads.plugin) |
 | [微信外部链接跳转](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_WeixinLinks.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_WeixinLinks.plugin) |
 | [TikTok解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) |
@@ -18,7 +19,6 @@
 | [Google重定向](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Google.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Google.plugin) |
 | [跳过代理](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_General.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_General.plugin) |
 | [插件仓库](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Gallery.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Gallery.plugin) |
-| [BoxJs](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_BoxJS.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_BoxJS.plugin) |
 | [1.1.1.1配置管理](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_1.1.1.1.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_1.1.1.1.plugin) |
 #### APP插件:
 <details>

@@ -7,7 +7,7 @@
 #!author = chavyleung
 #!homepage = https://chavyleung.gitbook.io/boxjs/
 #!icon = https://raw.githubusercontent.com/JiaBei-Q/Rules/main/plugin/Loon_BoxJS/icon/Loon_BoxJS.png
-#!date = 2024-04-23 18:10:41
+#!date = 2024-04-25 04:19:05
 
 [Rule]
 DOMAIN-SUFFIX,jsdelivr.net,PROXY
