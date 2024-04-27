@@ -5,12 +5,12 @@
 #### 常用插件:
 | 插件名称 | 更新时间 | 安装地址 |
 | - | - | - |
+| [TikTok解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) | 2024/04/28 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) |
 | [TestFlight账户管理](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TF_Account.plugin) | 2024/04/27 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TF_Account.plugin) |
 | [Sub-Store](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) | 2024/04/26 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) |
 | [BoxJs](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_BoxJS.plugin) | 2024/04/25 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_BoxJS.plugin) |
 | [YouTube去广告](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_YouTube_ads.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_YouTube_ads.plugin) |
 | [微信外部链接跳转](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_WeixinLinks.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_WeixinLinks.plugin) |
-| [TikTok解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) |
 | [Script-Hub](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Script-Hub.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Script-Hub.plugin) |
 | [QQ链接解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_QQ_Links.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_QQ_Links.plugin) |
 | [节点检测工具](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Node_tool.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Node_tool.plugin) |
