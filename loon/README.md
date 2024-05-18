@@ -5,7 +5,7 @@
 #### 常用插件:
 | 插件名称 | 更新时间 | 安装地址 |
 | - | - | - |
-| [Sub-Store](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) | 2024/05/18 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) |
+| [Sub-Store](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) | 2024/05/19 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) |
 | [TikTok解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) | 2024/05/17 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) |
 | [YouTube去广告](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_YouTube_ads.plugin) | 2024/05/15 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_YouTube_ads.plugin) |
 | [Script-Hub](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Script-Hub.plugin) | 2024/05/14 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Script-Hub.plugin) |
