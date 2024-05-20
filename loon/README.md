@@ -5,6 +5,7 @@
 #### 常用插件:
 | 插件名称 | 更新时间 | 安装地址 |
 | - | - | - |
+| [节点检测工具](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Node_tool.plugin) | 2024/05/21 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Node_tool.plugin) |
 | [Sub-Store](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) | 2024/05/19 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) |
 | [TikTok解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) | 2024/05/17 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) |
 | [YouTube去广告](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_YouTube_ads.plugin) | 2024/05/15 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_YouTube_ads.plugin) |
@@ -13,7 +14,6 @@
 | [TestFlight账户管理](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TF_Account.plugin) | 2024/04/27 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TF_Account.plugin) |
 | [微信外部链接跳转](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_WeixinLinks.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_WeixinLinks.plugin) |
 | [QQ链接解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_QQ_Links.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_QQ_Links.plugin) |
-| [节点检测工具](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Node_tool.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Node_tool.plugin) |
 | [入口落地查询](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Netisp.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Netisp.plugin) |
 | [京东比价](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_JD_Price.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_JD_Price.plugin) |
 | [Google重定向](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Google.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Google.plugin) |
