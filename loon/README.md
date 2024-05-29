@@ -5,7 +5,7 @@
 #### 常用插件:
 | 插件名称 | 更新时间 | 安装地址 |
 | - | - | - |
-| [Sub-Store](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) | 2024/05/29 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) |
+| [Sub-Store](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) | 2024/05/30 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Sub-Store.plugin) |
 | [Script-Hub](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Script-Hub.plugin) | 2024/05/29 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Script-Hub.plugin) |
 | [节点检测工具](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Node_tool.plugin) | 2024/05/21 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_Node_tool.plugin) |
 | [TikTok解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) | 2024/05/17 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Loon_TikTok.plugin) |
@@ -27,6 +27,7 @@
 
 | 插件名称 | 更新时间 | 安装地址 |
 | - | - | - |
+| [Documents解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Documents.plugin) | 2024/05/30 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Documents.plugin) |
 | [彩云天气解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/CaiYunTianQi.plugin) | 2024/04/26 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/CaiYunTianQi.plugin) |
 | [寻简解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/XunJian.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/XunJian.plugin) |
 | [网易云音乐解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/WangYiYun.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/WangYiYun.plugin) |
@@ -35,7 +36,6 @@
 | [美图秀秀解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/MeiTuXiuXiu.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/MeiTuXiuXiu.plugin) |
 | [芒果TV解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/MangGuoTV.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/MangGuoTV.plugin) |
 | [GitHub解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Github.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Github.plugin) |
-| [Documents解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Documents.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Documents.plugin) |
 | [Adguard解锁](https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Adguard.plugin) | 2024/04/23 | [点击安装](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/JiaBei-Q/Rules/main/loon/plugin/Adguard.plugin) |
 </ul>
 </details>
