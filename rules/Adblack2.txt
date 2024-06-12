@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年06月12日14:09:17
-# 数量: 100399条
+# 更新: 2024年06月13日05:14:28
+# 数量: 100398条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -11996,7 +11996,6 @@
 .mobads-pre-config.cdn.bcebos.com
 .qwe0231141.bj.bcebos.com
 .shijuezhongguo.cdn.bcebos.com
-.staticsns.cdn.bcebos.com
 .wzjs.cdn.bcebos.com
 .wzjs2.cdn.bcebos.com
 .ys2000.cdn.bcebos.com
