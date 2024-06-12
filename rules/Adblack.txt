@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2024年06月11日05:15:20
-# 数量: 100400条
+# 更新: 2024年06月12日14:09:17
+# 数量: 100399条
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -50154,7 +50154,6 @@ DOMAIN-SUFFIX,download.kuailefun.com
 DOMAIN-SUFFIX,kuaishang.cn
 DOMAIN-SUFFIX,kuaishang.com.cn
 DOMAIN-SUFFIX,open.e.kuaishou.cn
-DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN-SUFFIX,wlog.kuaishou.com
 DOMAIN-SUFFIX,open.kuaishouzt.com
 DOMAIN-SUFFIX,web.kuaisouwifi.com
